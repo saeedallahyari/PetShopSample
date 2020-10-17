@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
         <p>
-          Sample project for test git
+          Sample project for test git by sa
         </p>
       </header>
     </div>
